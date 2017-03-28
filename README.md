@@ -1,11 +1,12 @@
 # ArrayGons
   Gson工具类
-*1.优化接收数据不对时的闪退问题*
-*2.提供解析纯数组json数据的方法*
+*优化接收数据不对时的闪退问题
+*提供解析纯数组json数据的方法
   
   
 
 ## 一.首先在项目的gradle中引用：
+<pre><code>
 
     allprojects {
     repositories {
@@ -14,13 +15,14 @@
         }
     }
 
-
+</code></pre>
 
 ## 二.其次在dependencies中添加：
 <pre><code>
+
 dependencies {
-    compile 'com.github.alijiahua:ColorCircleProgressView:V1.0'
-}
+   compile 'com.github.alijiahua:ArrayGson:V1.1'}
+
 </code></pre>
 
 
