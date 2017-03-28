@@ -1,6 +1,8 @@
 # ArrayGons
   Gson工具类
+
 *优化接收数据不对时的闪退问题
+
 *提供解析纯数组json数据的方法
   
   
@@ -11,7 +13,7 @@
     allprojects {
     repositories {
         jcenter()
-        maven { url 'https://jitpack.io' } //此处插入 
+        maven { url 'https://jitpack.io' }
         }
     }
 
@@ -21,7 +23,9 @@
 <pre><code>
 
 dependencies {
-   compile 'com.github.alijiahua:ArrayGson:V1.1'}
+   compile 'com.github.alijiahua:ArrayGson:V1.1'
+
+   }
 
 </code></pre>
 
