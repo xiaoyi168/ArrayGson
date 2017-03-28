@@ -1,4 +1,4 @@
-# ArrayGons
+# ArrayGson
   Gson工具类
 
 *优化接收数据不对时的闪退问题
