@@ -23,7 +23,7 @@
 <pre><code>
 
 dependencies {
-   compile 'com.github.alijiahua:ArrayGson:V1.1'
+   compile 'com.github.lmiot:ArrayGson:V1.1'
 
    }
 
