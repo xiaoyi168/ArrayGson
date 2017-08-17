@@ -54,5 +54,4 @@ dependencies {
  List<TestBean> list = hGson.fromJsonList(res, TestBean.class);
 </code></pre>
 
-## 六.CSDN博客地址：http://blog.csdn.net/alijiahua
 
